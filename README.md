@@ -46,11 +46,11 @@ Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt gi
 
 
 <ol>
- <li><strong>Mel Frekans Cepstral Katsayıları (MFCC): </strong>
+ <li><strong>Mel Frekans Cepstral Katsayıları (MFCC)</strong>
   <p>     Veri seti olarak LJSpeech veri seti kullanılmıştır. LJSpeech veri seti 13.100 adet İngilizce cümle içerir. Konuşmacının cinsiyeti kadındır ve kayıtların kalitesi yüksektir. Model eğitimimiz için veri setinden rastgele seçilmiş 11790 adet veri, test için ise geri kalan 1310 veri kullanılmıştır.</p>
   
  </li>
- <li><strong>Perceptual Linear Predictive (PLP): </strong>
+ <li><strong>Perceptual Linear Predictive (PLP)</strong>
  <p>  Bu aşamada girdi olarak alınan ses dosyalarının çözümlendirilmesi, özellik çıkarımı vb. işlemler gerçekleştirilmiştir.</p>
   
  </li>
