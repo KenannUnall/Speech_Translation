@@ -9,7 +9,7 @@ Projemiz temel mantık aşamaları sırası ile;
 </ol>
 
 <h2>
-<strong>1. GİRDİ OLARAK ALINAN SESİN METİNLEŞTİRİLMESİ 
+1. GİRDİ OLARAK ALINAN SESİN METİNLEŞTİRİLMESİ 
 </h2>
 <p>Bu aşamada işlem adımları aşağıdaki gibidir;</p>
 <hr>
@@ -29,6 +29,6 @@ Projemiz temel mantık aşamaları sırası ile;
  <li><strong>Model test işlemi, sonuç değerlendirilmesi ve model optimizasyonu</strong>
  <p>    Bu aşama model eğitildikten sonra test verileri üzerinde nasıl sonuç verdiğine bağlı olarak modelde optimizasyon işlemleri gerçekleştirilip tekrardan eğitim süreci başlatılabilir.</p>
   </li>
- 
 
 </ol>
+<p>Projemiz bir yapay zekâ projesi olduğundan dolayı sesin metinleştirilmesi kısmında derin öğrenme başlığı altında bulunan RNN mimarisi kullanılmıştır. </p>
