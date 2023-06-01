@@ -19,9 +19,16 @@ Projemiz temel mantık aşamaları sırası ile;
   <p>     Veri seti olarak LJSpeech veri seti kullanılmıştır. LJSpeech veri seti 13.100 adet İngilizce cümle içerir. Konuşmacının cinsiyeti kadındır ve kayıtların kalitesi yüksektir. Model eğitimimiz için veri setinden rastgele seçilmiş 11790 adet veri, test için ise geri kalan 1310 veri kullanılmıştır.</p>
   
  </li>
- <li><strong>Veri ön işleme adımları</strong></li>
- <li><strong>Model oluşturulması ve eğitilmesi</strong></li>
- <li><strong>Model test işlemi, sonuç değerlendirilmesi ve model optimizasyonu</strong></li>
+ <li><strong>Veri ön işleme adımları</strong>
+ <p>  Bu aşamada girdi olarak alınan ses dosyalarının çözümlendirilmesi, özellik çıkarımı vb. işlemler gerçekleştirilmiştir.</p>
+  
+ </li>
+ <li><strong>Model oluşturulması ve eğitilmesi</strong>
+ <p>     Modelin eğitilme işlemi uzun zaman alan bir aşamadır. Önemi çok fazladır. İşlem süresinin artıp azalması modelde kullanılan katman sayısına, epoch sayısına kullanılan aktivasyon fonksiyonlarına, gerekli olarak aldığı parametre vb. durumlara bağlıdır. </p>
+  </li>
+ <li><strong>Model test işlemi, sonuç değerlendirilmesi ve model optimizasyonu</strong>
+ <p>    Bu aşama model eğitildikten sonra test verileri üzerinde nasıl sonuç verdiğine bağlı olarak modelde optimizasyon işlemleri gerçekleştirilip tekrardan eğitim süreci başlatılabilir.</p>
+  </li>
  
 
 </ol>
