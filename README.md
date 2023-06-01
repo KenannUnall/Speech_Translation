@@ -16,7 +16,7 @@ Projemiz temel mantık aşamaları sırası ile;
 
 <ol>
  <li><strong>Veri setininim araştırılması ve elde edilmesi</strong>
-  <p>asdasd</p>
+  <p>     Veri seti olarak LJSpeech veri seti kullanılmıştır. LJSpeech veri seti 13.100 adet İngilizce cümle içerir. Konuşmacının cinsiyeti kadındır ve kayıtların kalitesi yüksektir. Model eğitimimiz için veri setinden rastgele seçilmiş 11790 adet veri, test için ise geri kalan 1310 veri kullanılmıştır.</p>
   
  </li>
  <li><strong>Veri ön işleme adımları</strong></li>
