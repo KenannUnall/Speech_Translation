@@ -1,6 +1,10 @@
  # Speech Translation
 <p>Projemiz konusu İngilizce dilindeki konuşmayı Türkçe’ ye çevirerek seslendirme işlemidir. Projemizin kullanım amacı gerçek zamanlı tercüme gerektiren durumlarda kullanılmasıdır. Gezi turları, ticaret vb. durumlarda büyük kolaylık sağlamaktadır. </p>
+
+<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2019/12/automatic-speech-recognition_updated.png"></img>
+
 Projemiz temel mantık aşamaları sırası ile;
+
 <hr>
 <ol>
     <li>Girdi olarak alınan sesin metinleştirilmesi </li>
