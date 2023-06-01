@@ -68,6 +68,8 @@ Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt gi
   </li>
 </ol>
 
+<p align="center" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlYBDxqAVre2OfYHgw2s_DzfDPofXVxcP-WfCC91UXP3TQM9kv"></img></p>
+
 <h2>
  <br>
 2. METNİN FARKLI DİLE ÇEVRİLMESİ
