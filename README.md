@@ -41,7 +41,7 @@ RNN, tekrarlayan (döngülü) bir yapısı olan yapay sinir ağı türüdür. Bu
 <hr>
 
 <p>
-Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt girdi olarak verilememesinden dolayı ses dosyası ilk olarak sayısallaştırılmasına (çözümlenme işlemi) daha sonrasında ise RNN mimarisini kullanan derin öğrenme modelimize girdi olarak verilecek ses dosyası özelliklerinin çıkarılması gerekmektedir. Ses dosyalarından özellik çıkarımı işlemi STFT (Short-Time Fourier Transform) yöntemi ile yapılmıştır. STFT, uzun bir ses sinyalini küçük parçalara bölerek, her bir parçanın frekans-zaman uzayındaki özelliklerini hesaplar. Bu özellikler, spektrogram olarak adlandırılırlar ve ses dosyalarından özellik çıkarımında sıklıkla kullanılırlar. Bu aşamada birçok özellik çıkarımı yöntemi bulunmaktadır. 
+Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt girdi olarak verilememesinden dolayı ses dosyası ilk olarak sayısallaştırılmasına (çözümlenme işlemi) daha sonrasında ise RNN mimarisini kullanan derin öğrenme modelimize girdi olarak verilecek ses dosyası özelliklerinin çıkarılması gerekmektedir. Ses dosyalarından özellik çıkarımı işlemi STFT (Short-Time Fourier Transform) yöntemi ile yapılmıştır. STFT, uzun bir ses sinyalini küçük parçalara bölerek, her bir parçanın frekans-zaman uzayındaki özelliklerini hesaplar. Bu özellikler, spektrogram olarak adlandırılırlar ve ses dosyalarından özellik çıkarımında sıklıkla kullanılırlar. Bu aşamada birçok özellik çıkarımı yöntemi bulunmaktadır. Bunlardan bazıları;
 </p>
 
 
