@@ -15,7 +15,11 @@ Projemiz temel mantık aşamaları sırası ile;
 <hr>
 
 <ol>
- <li><strong>Veri setininim araştırılması ve elde edilmesi</strong></li>
+ <li><strong>Veri setininim araştırılması ve elde edilmesi</strong>
+  <ol>
+   <li>asdjnasjkdnjkasdjknasjkdaskdlmask</li>
+  </ol>
+ </li>
  <li><strong>Veri ön işleme adımları</strong></li>
  <li><strong>Model oluşturulması ve eğitilmesi</strong></li>
  <li><strong>Model test işlemi, sonuç değerlendirilmesi ve model optimizasyonu</strong></li>
