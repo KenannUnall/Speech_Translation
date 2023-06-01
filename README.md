@@ -20,6 +20,7 @@ Projemiz temel mantık aşamaları sırası ile;
  <li><strong>Veri setininim araştırılması ve elde edilmesi</strong>
   <p>     Veri seti olarak LJSpeech veri seti kullanılmıştır. LJSpeech veri seti 13.100 adet İngilizce cümle içerir. Konuşmacının cinsiyeti kadındır ve kayıtların kalitesi yüksektir. Model eğitimimiz için veri setinden rastgele seçilmiş 11790 adet veri, test için ise geri kalan 1310 veri kullanılmıştır.</p>
  <img width="300" height="400" src="https://production-media.paperswithcode.com/datasets/LJSpeech-0000001001-0d016d5b.jpg"></img>
+
  </li>
  <li><strong>Veri ön işleme adımları</strong>
  <p>  Bu aşamada girdi olarak alınan ses dosyalarının çözümlendirilmesi, özellik çıkarımı vb. işlemler gerçekleştirilmiştir.</p>
@@ -39,6 +40,8 @@ Projemiz temel mantık aşamaları sırası ile;
 RNN, tekrarlayan (döngülü) bir yapısı olan yapay sinir ağı türüdür. Bu yapay sinir ağı, bir önceki çıktının, bir sonraki adımda girdi olarak kullanılması sayesinde, zaman serileri veya sıralı veriler gibi yapısal verilerin işlenmesi için tasarlanmıştır. RNN'ler, geleneksel yapay sinir ağı modellerinin aksine, aynı ağın birden çok örneği arasında bağlantıları olan bir yapıya sahiptir. Bu bağlantılar, ağın önceki durumlarından zaman içinde bilgi akışını sağlamak için kullanılır. RNN'lerin anahtar özelliği, hafızalarının olmasıdır. Bu hafıza, ağın önceki durumlarını hatırlayarak, bir sonraki adımda gelen girdiye bağlı olarak yeni bir çıktı üretmesine olanak tanır. Bu özellik, RNN'leri zaman serileri, doğal dil işleme, konuşma tanıma gibi sıralı veriler için ideal hale getirir. RNN'ler, sıralı verileri işlemek için tasarlanmıştır ve birçok uygulama alanında kullanılır. Örneğin, zaman serileri analizi, konuşma tanıma, doğal dil işleme, hisse senedi fiyat tahmini, müzik oluşturma gibi alanlarda RNN'ler sıklıkla kullanılır.
 
 </p>
+
+ <img width="300" height="400" src=" https://miro.medium.com/v2/resize:fit:1400/0*c1L9jjcsASagk_Hu.png"></img>
 
 <hr>
 
