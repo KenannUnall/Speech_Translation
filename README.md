@@ -16,8 +16,7 @@ Projemiz temel mantık aşamaları sırası ile;
 
 <ol>
  <li><strong>Veri setininim araştırılması ve elde edilmesi</strong>
-  
-    <p>asdjnasjkdnjkasdjknasjkdaskdlmask<p>
+  <p>asdasd</p>
   
  </li>
  <li><strong>Veri ön işleme adımları</strong></li>
