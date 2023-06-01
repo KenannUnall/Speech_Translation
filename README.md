@@ -68,7 +68,7 @@ Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt gi
   </li>
 </ol>
 
-<p align="center"><img width="400" height="400"  src="https://www.mdpi.com/applsci/applsci-10-07208/article_deploy/html/images/applsci-10-07208-g001-550.jpg"></img></p>
+<p align="center"><img width="600" height="400"  src="https://www.mdpi.com/applsci/applsci-10-07208/article_deploy/html/images/applsci-10-07208-g001-550.jpg"></img></p>
 
 <h2>
  <br>
