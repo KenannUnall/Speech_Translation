@@ -68,7 +68,7 @@ Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt gi
   </li>
 </ol>
 
-<p align="center"><img width="400" height="400"  src="https://www.researchgate.net/publication/346243843/figure/fig1/AS:961807523000322@1606324191138/Short-time-Fourier-transform-STFT-overview.png"></img></p>
+<p align="center"><img width="400" height="400"  src="[https://www.researchgate.net/publication/346243843/figure/fig1/AS:961807523000322@1606324191138/Short-time-Fourier-transform-STFT-overview.png](https://www.researchgate.net/publication/346243843/figure/fig1/AS:961807523000322@1606324191138/Short-time-Fourier-transform-STFT-overview.png)"></img></p>
 
 <h2>
  <br>
