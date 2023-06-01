@@ -68,7 +68,7 @@ Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt gi
   </li>
 </ol>
 
-<p align="center"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlYBDxqAVre2OfYHgw2s_DzfDPofXVxcP-WfCC91UXP3TQM9kv"></img></p>
+<p align="center"><img width="400" height="400"  src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRlYBDxqAVre2OfYHgw2s_DzfDPofXVxcP-WfCC91UXP3TQM9kv"></img></p>
 
 <h2>
  <br>
