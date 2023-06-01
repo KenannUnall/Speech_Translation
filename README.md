@@ -1,7 +1,7 @@
  # Speech Translation
 <p>Projemiz konusu İngilizce dilindeki konuşmayı Türkçe’ ye çevirerek seslendirme işlemidir. Projemizin kullanım amacı gerçek zamanlı tercüme gerektiren durumlarda kullanılmasıdır. Gezi turları, ticaret vb. durumlarda büyük kolaylık sağlamaktadır. </p>
 
-<img src="https://developer-blogs.nvidia.com/wp-content/uploads/2019/12/automatic-speech-recognition_updated.png"></img>
+<p align="center"><img src="https://developer-blogs.nvidia.com/wp-content/uploads/2019/12/automatic-speech-recognition_updated.png"></img></p>
 
 Projemiz temel mantık aşamaları sırası ile;
 
@@ -23,7 +23,7 @@ Projemiz temel mantık aşamaları sırası ile;
 <ol>
  <li><strong>Veri setininim araştırılması ve elde edilmesi</strong>
   <p>     Veri seti olarak LJSpeech veri seti kullanılmıştır. LJSpeech veri seti 13.100 adet İngilizce cümle içerir. Konuşmacının cinsiyeti kadındır ve kayıtların kalitesi yüksektir. Model eğitimimiz için veri setinden rastgele seçilmiş 11790 adet veri, test için ise geri kalan 1310 veri kullanılmıştır.</p>
- <img width="300" height="400" src="https://production-media.paperswithcode.com/datasets/LJSpeech-0000001001-0d016d5b.jpg"></img>
+<p align="center"> <img width="300" height="400" src="https://production-media.paperswithcode.com/datasets/LJSpeech-0000001001-0d016d5b.jpg"></img></p>
 
  </li>
  <li><strong>Veri ön işleme adımları</strong>
