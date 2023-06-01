@@ -41,7 +41,7 @@ RNN, tekrarlayan (döngülü) bir yapısı olan yapay sinir ağı türüdür. Bu
 
 </p>
 
- <img width="300" height="400" src=" https://miro.medium.com/v2/resize:fit:1400/0*c1L9jjcsASagk_Hu.png"></img>
+ <img  src=" https://miro.medium.com/v2/resize:fit:1400/0*c1L9jjcsASagk_Hu.png"></img>
 
 <hr>
 
