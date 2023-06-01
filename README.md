@@ -60,7 +60,7 @@ Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt gi
 </ol>
 
 <h2>
-1. METNİN FARKLI DİLE ÇEVRİLMESİ
+2. METNİN FARKLI DİLE ÇEVRİLMESİ
 </h2>
 <p>Metnin farklı dile dönüştürülme işleminde ise “googletrans” kütüphanesinin altında bulunan “Translator” sınıfı kullanılmıştır. Bu kısımda derin öğrenmeden çıkan tahmin değeri, translator sınıfından oluşturduğumuz nesnenin translate fonksiyonuna girdi olarak verilerek çeviri işlemi gerçekleştirilmiştir. </p>
 
