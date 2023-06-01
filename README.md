@@ -47,15 +47,15 @@ Projemizin temel olarak çalıştığı ses dosyaları, RNN mimarisine direkt gi
 
 <ol>
  <li><strong>Mel Frekans Cepstral Katsayıları (MFCC)</strong>
-  <p>     Veri seti olarak LJSpeech veri seti kullanılmıştır. LJSpeech veri seti 13.100 adet İngilizce cümle içerir. Konuşmacının cinsiyeti kadındır ve kayıtların kalitesi yüksektir. Model eğitimimiz için veri setinden rastgele seçilmiş 11790 adet veri, test için ise geri kalan 1310 veri kullanılmıştır.</p>
+  <p>MFCC, insan kulağının işitme özellikleriyle uyumlu bir şekilde, ses sinyallerinin özelliklerini tanımlayan bir yöntemdir. MFCC, ses sinyallerinin frekans-zaman uzayındaki özelliklerini çıkararak, bir dizi katsayıya dönüştürür. Bu katsayılar, ses dosyalarının tanınması, sınıflandırılması ve benzer dosyaların bulunması için kullanılabilir.</p>
   
  </li>
  <li><strong>Perceptual Linear Predictive (PLP)</strong>
- <p>  Bu aşamada girdi olarak alınan ses dosyalarının çözümlendirilmesi, özellik çıkarımı vb. işlemler gerçekleştirilmiştir.</p>
+ <p>  PLP, ses sinyallerinin özelliklerini çıkarırken, insan işitme sistemine uygun bir şekilde özellikleri seçer. Bu yöntem, insan kulağının işitme özelliklerine uyumlu olarak, ses sinyallerinin özelliklerini tanımlayan bir yöntemdir. PLP, konuşma tanıma ve ses sınıflandırması gibi uygulamalarda sıklıkla kullanılır.</p>
   
  </li>
  <li><strong>Mel-Spektrogram</strong>
- <p>     Modelin eğitilme işlemi uzun zaman alan bir aşamadır. Önemi çok fazladır. İşlem süresinin artıp azalması modelde kullanılan katman sayısına, epoch sayısına kullanılan aktivasyon fonksiyonlarına, gerekli olarak aldığı parametre vb. durumlara bağlıdır. </p>
+ <p> Mel-spektrogram, ses sinyallerinin frekans-zaman uzayında temsil edilmesi için kullanılan bir yöntemdir. Bu yöntem, ses sinyallerinin spektrogramlarını,insan kulağının işitme özelliklerine daha uygun bir şekle dönüştürür. Mel-spektrogram, STFT yöntemi ile elde edilen spektrogramun frekans ölçeğini insan kulağının işitme özelliklerine daha uygun bir şekilde dönüştürür. Bu sayede, insan kulağı için daha anlaşılır bir spektrogram elde edilir. </p>
   </li>
 </ol>
 
