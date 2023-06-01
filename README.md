@@ -9,7 +9,7 @@ Projemiz temel mantık aşamaları sırası ile;
 </ol>
 
 <h2>
-1. GİRDİ OLARAK ALINAN SESİN METİNLEŞTİRİLMESİ 
+<strong>1. GİRDİ OLARAK ALINAN SESİN METİNLEŞTİRİLMESİ 
 </h2>
 <p>Bu aşamada işlem adımları aşağıdaki gibidir;</p>
 <hr>
