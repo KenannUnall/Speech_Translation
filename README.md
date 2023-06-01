@@ -7,3 +7,18 @@ Projemiz temel mantık aşamaları sırası ile;
     <li>Metnin farklı dile çevrilmesi</li>
     <li>Çevrilen metnin seslendirilmesidir.</li>
 </ol>
+
+<h2>
+1. GİRDİ OLARAK ALINAN SESİN METİNLEŞTİRİLMESİ 
+</h2>
+<p>Bu aşamada işlem adımları aşağıdaki gibidir;</p>
+<hr>
+
+<ol>
+ <li><strong>Veri setininim araştırılması ve elde edilmesi</li>
+ <li><strong>Veri ön işleme adımları</li>
+ <li><strong>Model oluşturulması ve eğitilmesi</li>
+ <li><strong>Model test işlemi, sonuç değerlendirilmesi ve model optimizasyonu</li>
+ 
+
+</ol>
